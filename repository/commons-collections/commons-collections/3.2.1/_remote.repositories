@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 25 11:11:07 AEST 2020
+commons-collections-3.2.1.jar>central=
+commons-collections-3.2.1.pom>central=
+commons-collections-3.2.1.pom>sit-maven-remote=
+commons-collections-3.2.1.jar>sit-maven-remote=
